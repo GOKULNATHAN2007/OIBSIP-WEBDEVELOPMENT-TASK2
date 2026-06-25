@@ -51,5 +51,5 @@ Suitable for internships and placements
 
 This portfolio website highlights the developer's profile, skills, projects, and achievements in a simple, responsive, and visually appealing way. It demonstrates practical knowledge of HTML and CSS while providing a professional online presence.This project demonstrates my understanding of frontend development and responsive web design. It helps strengthen my UI development skills while providing a professional portfolio to highlight my projects and achievements.
 
-🌐 Live Demo GitHub Pages:https://app.netlify.com/projects/grand-druid-a537dc/
+🌐 Live Demo GitHub Pages:https://grand-druid-a537dc.netlify.app/
 
